@@ -1,0 +1,70 @@
+Slice,Count,Total Area,Average Size,%Area,Mean,IntDen,tto,data
+controle 1 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,2,2.294,1.147,0.562,255,292.522,ct,2020_06_09
+controle 1 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,29,8.267,0.285,0.959,255,72.688,ct,2020_06_10
+controle 1 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,24,5.385,0.224,1.071,255,57.214,ct,2020_06_11
+controle 2 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,3,0.782,0.261,0.209,255,66.448,ct,2020_06_12
+controle 2 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,9,3.921,0.436,1.12,255,111.1,ct,2020_06_13
+controle 2 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,5,2.309,0.462,0.711,255,117.751,ct,2020_06_14
+controle 2 - dapi - pfak - gamma - 4_Out-1.czinucleo_0,10,2.492,0.249,0.969,255,63.541,ct,2020_06_15
+controle 2 - dapi - pfak - gamma - 5_Out-1.czinucleo_0,7,2.798,0.4,1.363,255,101.944,ct,2020_06_16
+controle 2 - dapi - pfak - gamma - 6_Out-1.czinucleo_0,9,2.178,0.242,0.666,255,61.706,ct,2020_06_17
+doxo 1 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,84,26.014,0.31,3.628,255,78.97,dox,2020_06_18
+doxo 1 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,59,17.872,0.303,3.085,255,77.243,dox,2020_06_19
+doxo 1 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,5,4.187,0.837,1.418,255,213.553,dox,2020_06_20
+doxo 1 - dapi - pfak - gamma - 4_Out-1.czinucleo_0,42,10.646,0.253,3.412,255,64.637,dox,2020_06_21
+doxo 1 - dapi - pfak - gamma - 5_Out-1.czinucleo_0,51,19.681,0.386,4.393,255,98.404,dox,2020_06_22
+doxo 2 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,63,27.641,0.439,7.444,255,111.879,dox,2020_06_23
+doxo 2 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,121,41.557,0.343,6.86,255,87.579,dox,2020_06_24
+doxo 2 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,70,23.667,0.338,2.715,255,86.217,dox,2020_06_25
+doxo 2 - dapi - pfak - gamma - 4_Out-1.czinucleo_0,41,12.92,0.315,4.751,255,80.353,dox,2020_06_26
+doxo 2 - dapi - pfak - gamma - 4_Out-1.czinucleo_1,40,12.745,0.319,4.589,255,81.249,dox,2020_06_27
+doxo 2 - dapi - pfak - gamma - 5_Out-1.czinucleo_0,48,16.588,0.346,5.814,255,88.124,dox,2020_06_28
+doxo 3 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,93,36.87,0.396,6.069,255,101.094,dox,2020_06_29
+doxo 3 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,80,30.375,0.38,7.127,255,96.819,dox,2020_06_30
+dapi-pfak-gamma-10_Out-1.czinucleo_0,0,0,NaN,0,NaN,NaN,ct,2020_06_23
+dapi-pfak-gamma-10_Out-1.czinucleo_1,8,1.574,0.197,0.56,255,50.167,ct,2020_06_23
+dapi-pfak-gamma-11_Out-1.czinucleo_0,5,1.153,0.231,0.429,255,58.796,ct,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_0,2,1.602,0.801,0.426,255,204.248,ct,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_1,7,1.596,0.228,0.423,255,58.129,ct,2020_06_23
+dapi-pfak-gamma-13_Out-1.czinucleo_0,8,2.424,0.303,0.627,255,77.272,ct,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_0,8,3.309,0.414,0.688,255,105.471,ct,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_1,2,0.466,0.233,0.174,255,59.379,ct,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_2,5,5.984,1.197,1.182,255,305.166,ct,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_0,3,1.195,0.398,0.553,255,101.616,ct,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_1,1,0.549,0.549,0.279,255,139.965,ct,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_2,1,0.7,0.7,0.226,255,178.402,ct,2020_06_23
+dapi-pfak-gamma-1_Out-1.czinucleo_0,14,3.504,0.25,1.149,255,63.829,ct,2020_06_23
+dapi-pfak-gamma-2_Out-1.czinucleo_0,7,2.048,0.293,0.873,255,74.603,ct,2020_06_23
+dapi-pfak-gamma-3_Out-1.czinucleo_0,7,2.068,0.295,0.653,255,75.322,ct,2020_06_23
+dapi-pfak-gamma-4_Out-1.czinucleo_0,7,2.457,0.351,0.82,255,89.523,ct,2020_06_23
+dapi-pfak-gamma-5_Out-1.czinucleo_0,4,1.278,0.319,0.441,255,81.447,ct,2020_06_23
+dapi-pfak-gamma-6_Out-1.czinucleo_0,5,1.644,0.329,0.63,255,83.82,ct,2020_06_23
+dapi-pfak-gamma-7_Out-1.czinucleo_0,13,3.159,0.243,1.153,255,61.969,ct,2020_06_23
+dapi-pfak-gamma-7_Out-1.czinucleo_1,3,0.472,0.157,0.201,255,40.116,ct,2020_06_23
+dapi-pfak-gamma-8_Out-1.czinucleo_0,7,2.854,0.408,1.224,255,103.951,ct,2020_06_23
+dapi-pfak-gamma-8_Out-1.czinucleo_1,4,0.872,0.218,0.223,255,55.602,ct,2020_06_23
+dapi-pfak-gamma-9_Out-1.czinucleo_0,10,2.37,0.237,0.85,255,60.439,ct,2020_06_23
+dapi-pfak-gamma-10_Out-1.czinucleo_0,74,24.756,0.335,5.291,255,85.307,dox,2020_06_23
+dapi-pfak-gamma-11_Out-1.czinucleo_0,86,28.547,0.332,6.544,255,84.645,dox,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_0,46,13.193,0.287,4.712,255,73.135,dox,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_1,29,7.119,0.245,2.297,255,62.597,dox,2020_06_23
+dapi-pfak-gamma-13_Out-1.czinucleo_0,53,18.54,0.35,7.66,255,89.204,dox,2020_06_23
+dapi-pfak-gamma-13_Out-1.czinucleo_1,38,11.232,0.296,3.528,255,75.375,dox,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_0,127,45.102,0.355,7.447,255,90.559,dox,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_0,67,23.088,0.345,5.526,255,87.874,dox,2020_06_23
+dapi-pfak-gamma-16_Out-1.czinucleo_0,51,17.254,0.338,5.16,255,86.272,dox,2020_06_23
+dapi-pfak-gamma-16_Out-1.czinucleo_1,70,24.862,0.355,6.085,255,90.568,dox,2020_06_23
+dapi-pfak-gamma-17_Out-1.czinucleo_0,93,36.001,0.387,8.649,255,98.712,dox,2020_06_23
+dapi-pfak-gamma-18_Out-1.czinucleo_0,94,37.54,0.399,7.184,255,101.838,dox,2020_06_23
+dapi-pfak-gamma-19_Out-1.czinucleo_0,56,15.693,0.28,4.246,255,71.459,dox,2020_06_23
+dapi-pfak-gamma-1_Out-1.czinucleo_0,62,44.974,0.725,10.893,255,184.974,dox,2020_06_23
+dapi-pfak-gamma-20_Out-1.czinucleo_0,105,48.384,0.461,8.189,255,117.504,dox,2020_06_23
+dapi-pfak-gamma-2_Out-1.czinucleo_0,61,23.507,0.385,6.683,255,98.268,dox,2020_06_23
+dapi-pfak-gamma-3_Out-1.czinucleo_0,98,47.248,0.482,9.382,255,122.94,dox,2020_06_23
+dapi-pfak-gamma-4_Out-1.czinucleo_0,82,41.257,0.503,7.861,255,128.298,dox,2020_06_23
+dapi-pfak-gamma-5_Out-1.czinucleo_0,88,34.619,0.393,6.963,255,100.317,dox,2020_06_23
+dapi-pfak-gamma-6_Out-1.czinucleo_0,48,15.454,0.322,4.278,255,82.099,dox,2020_06_23
+dapi-pfak-gamma-7_Out-1.czinucleo_0,44,11.494,0.261,3.419,255,66.615,dox,2020_06_23
+dapi-pfak-gamma-8_Out-1.czinucleo_0,40,16.229,0.406,5.887,255,103.463,dox,2020_06_23
+dapi-pfak-gamma-9_Out-1.czinucleo_0,52,15.006,0.289,3.346,255,73.587,dox,2020_06_23
+dapi-pfak-gamma-9_Out-1.czinucleo_1,26,6.522,0.251,1.925,255,63.967,dox,2020_06_23

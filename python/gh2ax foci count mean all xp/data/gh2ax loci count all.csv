@@ -1,0 +1,307 @@
+Slice,Count,Total Area,Average Size,%Area,Mean,IntDen,tto,data
+controle 1 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,2,2.294,1.147,0.562,255,292.522,ct,2020_06_09
+controle 1 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,29,8.267,0.285,0.959,255,72.688,ct,2020_06_10
+controle 1 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,24,5.385,0.224,1.071,255,57.214,ct,2020_06_11
+controle 2 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,3,0.782,0.261,0.209,255,66.448,ct,2020_06_12
+controle 2 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,9,3.921,0.436,1.12,255,111.1,ct,2020_06_13
+controle 2 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,5,2.309,0.462,0.711,255,117.751,ct,2020_06_14
+controle 2 - dapi - pfak - gamma - 4_Out-1.czinucleo_0,10,2.492,0.249,0.969,255,63.541,ct,2020_06_15
+controle 2 - dapi - pfak - gamma - 5_Out-1.czinucleo_0,7,2.798,0.4,1.363,255,101.944,ct,2020_06_16
+controle 2 - dapi - pfak - gamma - 6_Out-1.czinucleo_0,9,2.178,0.242,0.666,255,61.706,ct,2020_06_17
+doxo 1 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,84,26.014,0.31,3.628,255,78.97,dox,2020_06_18
+doxo 1 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,59,17.872,0.303,3.085,255,77.243,dox,2020_06_19
+doxo 1 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,5,4.187,0.837,1.418,255,213.553,dox,2020_06_20
+doxo 1 - dapi - pfak - gamma - 4_Out-1.czinucleo_0,42,10.646,0.253,3.412,255,64.637,dox,2020_06_21
+doxo 1 - dapi - pfak - gamma - 5_Out-1.czinucleo_0,51,19.681,0.386,4.393,255,98.404,dox,2020_06_22
+doxo 2 - dapi - pfak - gamma - 1_Out-1.czinucleo_0,63,27.641,0.439,7.444,255,111.879,dox,2020_06_23
+doxo 2 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,121,41.557,0.343,6.86,255,87.579,dox,2020_06_24
+doxo 2 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,70,23.667,0.338,2.715,255,86.217,dox,2020_06_25
+doxo 2 - dapi - pfak - gamma - 4_Out-1.czinucleo_0,41,12.92,0.315,4.751,255,80.353,dox,2020_06_26
+doxo 2 - dapi - pfak - gamma - 4_Out-1.czinucleo_1,40,12.745,0.319,4.589,255,81.249,dox,2020_06_27
+doxo 2 - dapi - pfak - gamma - 5_Out-1.czinucleo_0,48,16.588,0.346,5.814,255,88.124,dox,2020_06_28
+doxo 3 - dapi - pfak - gamma - 2_Out-1.czinucleo_0,93,36.87,0.396,6.069,255,101.094,dox,2020_06_29
+doxo 3 - dapi - pfak - gamma - 3_Out-1.czinucleo_0,80,30.375,0.38,7.127,255,96.819,dox,2020_06_30
+dapi-pfak-gamma-10_Out-1.czinucleo_0,0,0,NaN,0,NaN,NaN,ct,2020_06_23
+dapi-pfak-gamma-10_Out-1.czinucleo_1,8,1.574,0.197,0.56,255,50.167,ct,2020_06_23
+dapi-pfak-gamma-11_Out-1.czinucleo_0,5,1.153,0.231,0.429,255,58.796,ct,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_0,2,1.602,0.801,0.426,255,204.248,ct,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_1,7,1.596,0.228,0.423,255,58.129,ct,2020_06_23
+dapi-pfak-gamma-13_Out-1.czinucleo_0,8,2.424,0.303,0.627,255,77.272,ct,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_0,8,3.309,0.414,0.688,255,105.471,ct,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_1,2,0.466,0.233,0.174,255,59.379,ct,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_2,5,5.984,1.197,1.182,255,305.166,ct,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_0,3,1.195,0.398,0.553,255,101.616,ct,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_1,1,0.549,0.549,0.279,255,139.965,ct,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_2,1,0.7,0.7,0.226,255,178.402,ct,2020_06_23
+dapi-pfak-gamma-1_Out-1.czinucleo_0,14,3.504,0.25,1.149,255,63.829,ct,2020_06_23
+dapi-pfak-gamma-2_Out-1.czinucleo_0,7,2.048,0.293,0.873,255,74.603,ct,2020_06_23
+dapi-pfak-gamma-3_Out-1.czinucleo_0,7,2.068,0.295,0.653,255,75.322,ct,2020_06_23
+dapi-pfak-gamma-4_Out-1.czinucleo_0,7,2.457,0.351,0.82,255,89.523,ct,2020_06_23
+dapi-pfak-gamma-5_Out-1.czinucleo_0,4,1.278,0.319,0.441,255,81.447,ct,2020_06_23
+dapi-pfak-gamma-6_Out-1.czinucleo_0,5,1.644,0.329,0.63,255,83.82,ct,2020_06_23
+dapi-pfak-gamma-7_Out-1.czinucleo_0,13,3.159,0.243,1.153,255,61.969,ct,2020_06_23
+dapi-pfak-gamma-7_Out-1.czinucleo_1,3,0.472,0.157,0.201,255,40.116,ct,2020_06_23
+dapi-pfak-gamma-8_Out-1.czinucleo_0,7,2.854,0.408,1.224,255,103.951,ct,2020_06_23
+dapi-pfak-gamma-8_Out-1.czinucleo_1,4,0.872,0.218,0.223,255,55.602,ct,2020_06_23
+dapi-pfak-gamma-9_Out-1.czinucleo_0,10,2.37,0.237,0.85,255,60.439,ct,2020_06_23
+dapi-pfak-gamma-10_Out-1.czinucleo_0,74,24.756,0.335,5.291,255,85.307,dox,2020_06_23
+dapi-pfak-gamma-11_Out-1.czinucleo_0,86,28.547,0.332,6.544,255,84.645,dox,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_0,46,13.193,0.287,4.712,255,73.135,dox,2020_06_23
+dapi-pfak-gamma-12_Out-1.czinucleo_1,29,7.119,0.245,2.297,255,62.597,dox,2020_06_23
+dapi-pfak-gamma-13_Out-1.czinucleo_0,53,18.54,0.35,7.66,255,89.204,dox,2020_06_23
+dapi-pfak-gamma-13_Out-1.czinucleo_1,38,11.232,0.296,3.528,255,75.375,dox,2020_06_23
+dapi-pfak-gamma-14_Out-1.czinucleo_0,127,45.102,0.355,7.447,255,90.559,dox,2020_06_23
+dapi-pfak-gamma-15_Out-1.czinucleo_0,67,23.088,0.345,5.526,255,87.874,dox,2020_06_23
+dapi-pfak-gamma-16_Out-1.czinucleo_0,51,17.254,0.338,5.16,255,86.272,dox,2020_06_23
+dapi-pfak-gamma-16_Out-1.czinucleo_1,70,24.862,0.355,6.085,255,90.568,dox,2020_06_23
+dapi-pfak-gamma-17_Out-1.czinucleo_0,93,36.001,0.387,8.649,255,98.712,dox,2020_06_23
+dapi-pfak-gamma-18_Out-1.czinucleo_0,94,37.54,0.399,7.184,255,101.838,dox,2020_06_23
+dapi-pfak-gamma-19_Out-1.czinucleo_0,56,15.693,0.28,4.246,255,71.459,dox,2020_06_23
+dapi-pfak-gamma-1_Out-1.czinucleo_0,62,44.974,0.725,10.893,255,184.974,dox,2020_06_23
+dapi-pfak-gamma-20_Out-1.czinucleo_0,105,48.384,0.461,8.189,255,117.504,dox,2020_06_23
+dapi-pfak-gamma-2_Out-1.czinucleo_0,61,23.507,0.385,6.683,255,98.268,dox,2020_06_23
+dapi-pfak-gamma-3_Out-1.czinucleo_0,98,47.248,0.482,9.382,255,122.94,dox,2020_06_23
+dapi-pfak-gamma-4_Out-1.czinucleo_0,82,41.257,0.503,7.861,255,128.298,dox,2020_06_23
+dapi-pfak-gamma-5_Out-1.czinucleo_0,88,34.619,0.393,6.963,255,100.317,dox,2020_06_23
+dapi-pfak-gamma-6_Out-1.czinucleo_0,48,15.454,0.322,4.278,255,82.099,dox,2020_06_23
+dapi-pfak-gamma-7_Out-1.czinucleo_0,44,11.494,0.261,3.419,255,66.615,dox,2020_06_23
+dapi-pfak-gamma-8_Out-1.czinucleo_0,40,16.229,0.406,5.887,255,103.463,dox,2020_06_23
+dapi-pfak-gamma-9_Out-1.czinucleo_0,52,15.006,0.289,3.346,255,73.587,dox,2020_06_23
+dapi-pfak-gamma-9_Out-1.czinucleo_1,26,6.522,0.251,1.925,255,63.967,dox,2020_06_23
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-01_Out_Channel Alignment.czi_nucleo_0(7).tifnucleo_0,6,1.534,0.256,0.795,255,65.211,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-01_Out_Channel Alignment.czi_nucleo_1(6).tifnucleo_0,8,3.736,0.467,1.101,255,119.09,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-02_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,16,3.737,0.234,1.431,255,59.561,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-03_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,1,1.116,1.116,0.441,255,284.702,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-03_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,1,0.168,0.168,0.045,255,42.944,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-04_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,10,3.232,0.323,1.543,255,82.415,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-04_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,8,2.105,0.263,1.056,255,67.1,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-05_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,4,4,1,1.358,255,255.012,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-05_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,11,4.031,0.366,1.32,255,93.455,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-06_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,14,3.575,0.255,0.977,255,65.116,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-07_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,1,1.602,1.602,0.689,255,408.497,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-07_Out_Channel Alignment.czi_nucleo_1(8).tifnucleo_0,1,1.299,1.299,0.52,255,331.357,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-07_Out_Channel Alignment.czi_nucleo_2(8).tifnucleo_0,3,2.052,0.684,0.867,255,174.426,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-07_Out_Channel Alignment.czi_nucleo_3(8).tifnucleo_0,4,2.253,0.563,0.922,255,143.61,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-08_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,4,2.193,0.548,0.838,255,139.833,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-08_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,3,1.522,0.507,0.589,255,129.362,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-09_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,2,2.565,1.282,0.77,255,326.983,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-09_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,2,2.207,1.103,0.728,255,281.388,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-09_Out_Channel Alignment.czi_nucleo_2(15).tifnucleo_0,29,8.112,0.28,2.362,255,71.326,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-10_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,11,3.528,0.321,1.223,255,81.791,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-10_Out_Channel Alignment.czi_nucleo_1(16).tifnucleo_0,6,1.94,0.323,0.867,255,82.442,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-11_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,1,1.118,1.118,0.443,255,284.967,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-11_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,8,2.963,0.37,1.072,255,94.437,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-12_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,4,1.405,0.351,0.684,255,89.599,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-12_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,6,2.424,0.404,1.275,255,103.03,ct_dmso,2022_05_19
+ct-DMSO-h2ax-647-ku80-564-fak-488-dapi-12_Out_Channel Alignment.czi_nucleo_2(12).tifnucleo_0,7,2.252,0.322,1.225,255,82.025,ct_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-02_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,41,11.328,0.276,2.138,255,70.455,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-02_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,45,12.878,0.286,3.736,255,72.975,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-03_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,16,5.558,0.347,1.621,255,88.588,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-03_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,70,33.022,0.472,8.232,255,120.296,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-03_Out_Channel Alignment.czi_nucleo_2(15).tifnucleo_0,28,13.267,0.474,5.076,255,120.822,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-04_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,8,2.588,0.324,0.873,255,82.508,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-05_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,15,3.661,0.244,0.914,255,62.242,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-06_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,38,13.854,0.365,6.619,255,92.968,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-08_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,32,9.744,0.304,2.423,255,77.645,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-08_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,1,0.169,0.169,0.049,255,43.209,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-09_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,74,27.658,0.374,6.673,255,95.309,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-09_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,51,22.288,0.437,6.58,255,111.44,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-10_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,57,21.455,0.376,6.861,255,95.984,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-10_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,46,16.053,0.349,5.483,255,88.988,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-11_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,27,10.171,0.377,4.455,255,96.059,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-11_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,21,7.362,0.351,2.354,255,89.397,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-12_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,45,17.156,0.381,5.42,255,97.216,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-13_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,53,19.545,0.369,6.344,255,94.035,dox_dmso,2022_05_19
+dox-DMSO-h2ax-647-ku80-564-fak-488-dapi-13_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,94,47.286,0.503,11.517,255,128.276,dox_dmso,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-01_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,89,34.536,0.388,8.225,255,98.951,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-02_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,50,17.192,0.344,5.977,255,87.68,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-02_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,54,22.369,0.414,7.66,255,105.632,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-03_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,55,24.48,0.445,5.983,255,113.5,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-04_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,50,14.504,0.29,6.005,255,73.969,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-04_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,45,14.988,0.333,6.046,255,84.933,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-05_Out_Channel Alignment.czi_nucleo_0(8).tifnucleo_0,65,19.547,0.301,5.196,255,76.683,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-06_Out_Channel Alignment.czi_nucleo_0(8).tifnucleo_0,34,12.593,0.37,4.216,255,94.448,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-07_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,79,40.544,0.513,11.104,255,130.868,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-08_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,36,16.101,0.447,6.56,255,114.046,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-08_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,37,12.254,0.331,4.67,255,84.455,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-09_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,17,5.621,0.331,2.423,255,84.313,dox_pf,2022_05_19
+dox-PF-h2ax-647-ku80-564-fak-488-dapi-11_Out_Channel Alignment.czi_nucleo_0(9).tifnucleo_0,57,19.447,0.341,7.616,255,86.999,dox_pf,2022_05_19
+CT-scramble-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,5,1.367,0.273,0.71,255,69.717,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,3,1.267,0.422,0.927,255,107.713,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,3,0.664,0.221,0.358,255,56.463,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,4,1.107,0.277,0.612,255,70.579,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,3,0.943,0.314,0.367,255,80.144,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,3,0.766,0.255,0.546,255,65.123,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_3(12).tifnucleo_0,6,1.286,0.214,0.721,255,54.652,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,5,1.377,0.275,0.671,255,70.248,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,5,1.139,0.228,0.57,255,58.107,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,2,0.406,0.203,0.282,255,51.824,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_3(15).tifnucleo_0,1,0.151,0.151,0.083,255,38.437,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,3,0.765,0.255,0.569,255,65.034,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_1(8).tifnucleo_0,3,0.688,0.229,0.534,255,58.496,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,2,0.505,0.253,0.302,255,64.416,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,4,0.852,0.213,0.509,255,54.343,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_2(20).tifnucleo_0,3,0.721,0.24,0.388,255,61.323,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_3(14).tifnucleo_0,2,0.455,0.228,0.265,255,58.054,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_4(12).tifnucleo_0,3,0.913,0.304,0.574,255,77.582,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_5(12).tifnucleo_0,2,0.408,0.204,0.293,255,51.957,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,6,1.289,0.215,0.6,255,54.784,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,2,0.346,0.173,0.215,255,44.137,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,3,0.681,0.227,0.43,255,57.877,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_0(18).tifnucleo_0,3,0.499,0.166,0.34,255,42.414,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_1(16).tifnucleo_0,2,0.42,0.21,0.329,255,53.547,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_2(17).tifnucleo_0,6,1.069,0.178,0.414,255,45.418,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,7,1.44,0.206,0.698,255,52.449,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,3,0.69,0.23,0.394,255,58.672,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,2,0.886,0.443,0.463,255,112.926,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,2,0.366,0.183,0.242,255,46.655,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,1,0.814,0.814,0.395,255,207.562,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,3,0.738,0.246,0.367,255,62.737,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_3(12).tifnucleo_0,1,0.338,0.338,0.138,255,86.153,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,2,0.367,0.183,0.157,255,46.788,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,2,0.66,0.33,0.335,255,84.165,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_2(15).tifnucleo_0,2,0.35,0.175,0.186,255,44.667,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_3(16).tifnucleo_0,1,0.517,0.517,0.404,255,131.747,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_4(14).tifnucleo_0,1,0.394,0.394,0.257,255,100.467,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,2,0.7,0.35,0.452,255,89.201,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,2,1.098,0.549,0.579,255,139.965,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,5,0.921,0.184,0.567,255,46.973,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,5,1.164,0.233,0.603,255,59.379,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,10,2.172,0.217,1.013,255,55.376,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_2(12).tifnucleo_0,4,1.165,0.291,0.627,255,74.29,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_3(12).tifnucleo_0,0,0,NaN,0,NaN,NaN,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,4,1.268,0.317,0.664,255,80.851,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,2,0.778,0.389,0.456,255,99.142,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,5,0.983,0.197,0.557,255,50.154,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_3(13).tifnucleo_0,2,0.601,0.3,0.373,255,76.61,ct_sc,2022_05_22
+CT-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_4(12).tifnucleo_0,4,0.767,0.192,0.455,255,48.908,ct_sc,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,8,3.779,0.472,1.442,255,120.448,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,0,0,NaN,0,NaN,NaN,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_2(12).tifnucleo_0,8,1.619,0.202,0.712,255,51.592,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_3(13).tifnucleo_0,5,1.362,0.272,0.931,255,69.452,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,12,2.806,0.234,0.881,255,59.622,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,12,2.896,0.241,1.471,255,61.544,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,2,0.953,0.477,0.647,255,121.542,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_3(12).tifnucleo_0,13,2.716,0.209,1.081,255,53.282,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_4(12).tifnucleo_0,11,2.857,0.26,0.944,255,66.223,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_5(14).tifnucleo_0,10,2.473,0.247,1.178,255,63.064,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_0(9).tifnucleo_0,2,0.442,0.221,0.236,255,56.331,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,12,3.236,0.27,2.266,255,68.768,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_2(10).tifnucleo_0,15,3.891,0.259,1.369,255,66.148,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_3(10).tifnucleo_0,3,1.121,0.374,0.738,255,95.254,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,12,3.42,0.285,1.487,255,72.678,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,13,2.753,0.212,1.454,255,53.996,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,6,1.628,0.271,1.097,255,69.187,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_3(14).tifnucleo_0,12,3,0.25,1.369,255,63.753,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,10,2.496,0.25,1.026,255,63.647,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,20,5.266,0.263,2.614,255,67.146,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_2(17).tifnucleo_0,5,1.105,0.221,0.602,255,56.357,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,2,1.114,0.557,0.505,255,142.086,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,1,0.743,0.743,0.309,255,189.536,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,1,0.821,0.821,0.508,255,209.417,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_3(13).tifnucleo_0,4,1.007,0.252,0.788,255,64.217,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_4(13).tifnucleo_0,1,0.2,0.2,0.129,255,50.896,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,7,1.487,0.212,0.901,255,54.153,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,0,0,NaN,0,NaN,NaN,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_0(9).tifnucleo_0,4,1.403,0.351,0.562,255,89.466,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_1(9).tifnucleo_0,2,1.07,0.535,0.755,255,136.386,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_2(9).tifnucleo_0,9,2.926,0.325,1.743,255,82.913,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_3(9).tifnucleo_0,9,1.944,0.216,1.068,255,55.079,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_0(9).tifnucleo_0,7,1.781,0.254,1.178,255,64.87,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,1,0.258,0.258,0.164,255,65.741,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,1,0.81,0.81,0.463,255,206.502,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_3(9).tifnucleo_0,4,0.705,0.176,0.399,255,44.932,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_4(9).tifnucleo_0,3,0.819,0.273,0.648,255,69.629,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_5(9).tifnucleo_0,5,1.036,0.207,0.704,255,52.858,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,9,2.204,0.245,1.231,255,62.442,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,2,0.449,0.225,0.286,255,57.258,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_2(16).tifnucleo_0,26,5.897,0.227,1.684,255,57.84,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_0(16).tifnucleo_0,2,0.464,0.232,0.256,255,59.114,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,5,1.909,0.382,1.084,255,97.339,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_2(15).tifnucleo_0,4,1.066,0.266,0.64,255,67.928,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_3(16).tifnucleo_0,3,1.395,0.465,0.864,255,118.582,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_4(14).tifnucleo_0,3,1.558,0.519,1.15,255,132.454,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_5(14).tifnucleo_0,6,1.646,0.274,0.995,255,69.938,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,6,1.396,0.233,0.938,255,59.335,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,14,3.443,0.246,1.306,255,62.712,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_2(14).tifnucleo_0,8,1.617,0.202,0.78,255,51.526,ct_sifak,2022_05_22
+CT-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_3(13).tifnucleo_0,2,0.579,0.29,0.306,255,73.826,ct_sifak,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_0(16).tifnucleo_0,24,9.702,0.404,6.138,255,103.085,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,10,2.339,0.234,1.035,255,59.644,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,47,21.585,0.459,5.088,255,117.111,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_0(9).tifnucleo_0,39,17.585,0.451,9.73,255,114.979,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,37,26.74,0.723,12.382,255,184.292,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,39,12.152,0.312,7.073,255,79.458,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,45,30.541,0.679,11.98,255,173.065,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,54,27.738,0.514,11.8,255,130.987,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,36,10.212,0.284,5.133,255,72.332,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,67,40.607,0.606,11.316,255,154.549,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,59,20.986,0.356,7.825,255,90.704,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,54,28.167,0.522,10.439,255,133.009,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,49,29.033,0.593,9.139,255,151.088,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,63,30.059,0.477,10.731,255,121.666,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,31,27.935,0.901,9.87,255,229.786,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,47,15.274,0.325,5.601,255,82.87,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,95,34.598,0.364,6.013,255,92.869,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,53,22.939,0.433,10.099,255,110.366,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,54,25.555,0.473,12.894,255,120.678,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,42,14.868,0.354,7.346,255,90.268,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,39,13.641,0.35,7.124,255,89.191,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_2(12).tifnucleo_0,60,23.583,0.393,6.365,255,100.229,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,56,40.526,0.724,11.271,255,184.537,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,67,38.018,0.567,11.496,255,144.697,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,54,30.806,0.57,11.288,255,145.473,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,70,30.009,0.429,9.533,255,109.317,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,91,38.712,0.425,10.967,255,108.478,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,37,20.063,0.542,8.081,255,138.274,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,54,33.541,0.621,14.452,255,158.389,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,45,22.399,0.498,10.604,255,126.929,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_3(14).tifnucleo_0,52,22.37,0.43,8.179,255,109.699,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-15_Out_Channel Alignment.czi_nucleo_0(15).tifnucleo_0,68,42.573,0.626,12.02,255,159.648,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-15_Out_Channel Alignment.czi_nucleo_1(16).tifnucleo_0,65,45.236,0.696,17.036,255,177.464,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-15_Out_Channel Alignment.czi_nucleo_2(18).tifnucleo_0,37,24.173,0.653,8.944,255,166.595,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-teste_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,70,27.142,0.388,8.421,255,98.873,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-teste_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,61,24.486,0.401,8.572,255,102.358,dox_sc,2022_05_22
+Dox-scramble-h2ax-647-ku80-564-dapi-teste_Out_Channel Alignment.czi_nucleo_2(12).tifnucleo_0,85,38.364,0.451,12.481,255,115.091,dox_sc,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,37,21.849,0.591,8.119,255,150.583,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-01_Out_Channel Alignment.czi_nucleo_1(14).tifnucleo_0,60,24.11,0.402,7.763,255,102.469,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,19,21.725,1.143,7.079,255,291.566,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-02_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,50,19.948,0.399,9.081,255,101.734,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,28,24.708,0.882,8.453,255,225.02,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-03_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,54,20.351,0.377,10.358,255,96.103,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,46,26.311,0.572,9.545,255,145.855,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-04_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,55,29.473,0.536,10.096,255,136.649,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-05_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,33,13.779,0.418,6.922,255,106.476,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_0(14).tifnucleo_0,34,26.563,0.781,9.442,255,199.219,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-06_Out_Channel Alignment.czi_nucleo_1(15).tifnucleo_0,32,11.5,0.359,4.618,255,91.637,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,59,31.075,0.527,11.579,255,134.308,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-07_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,63,34.375,0.546,10.442,255,139.136,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,58,25.422,0.438,11.32,255,111.77,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-08_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,19,15.353,0.808,5.649,255,206.055,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,63,36.624,0.581,9.677,255,148.242,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-09_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,28,11.53,0.412,3.844,255,105.002,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,65,31.511,0.485,11.848,255,123.62,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,34,12.668,0.373,4.542,255,95.01,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-10_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,69,36.184,0.524,9.784,255,133.722,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_0(10).tifnucleo_0,65,23.392,0.36,7.743,255,91.768,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_1(10).tifnucleo_0,64,25.402,0.397,10.971,255,101.213,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_2(10).tifnucleo_0,47,17.711,0.377,8.013,255,96.091,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-11_Out_Channel Alignment.czi_nucleo_3(11).tifnucleo_0,18,5.584,0.31,2.906,255,79.113,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,35,19.319,0.552,5.032,255,140.753,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,31,9.415,0.304,4.634,255,77.448,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-12_Out_Channel Alignment.czi_nucleo_2(13).tifnucleo_0,27,9.808,0.363,7.073,255,92.633,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_0(12).tifnucleo_0,60,20.707,0.345,7.632,255,88.004,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_1(11).tifnucleo_0,55,26.576,0.483,10.124,255,123.217,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-13_Out_Channel Alignment.czi_nucleo_2(12).tifnucleo_0,32,12.037,0.376,5.66,255,95.92,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_0(11).tifnucleo_0,58,24.499,0.422,8.77,255,107.712,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_1(12).tifnucleo_0,58,22.523,0.388,7.582,255,99.023,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-14_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,27,9.413,0.349,4.316,255,88.902,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-15_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,93,54.398,0.585,11.989,255,149.155,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-15_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,76,29.849,0.393,8.528,255,100.15,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-16_Out_Channel Alignment.czi_nucleo_0(13).tifnucleo_0,75,40.136,0.535,11.876,255,136.462,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-16_Out_Channel Alignment.czi_nucleo_1(13).tifnucleo_0,57,33.668,0.591,10.255,255,150.62,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-16_Out_Channel Alignment.czi_nucleo_2(11).tifnucleo_0,53,32.152,0.607,7.105,255,154.695,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-17_Out_Channel Alignment.czi_nucleo_0(17).tifnucleo_0,60,28.157,0.469,12.247,255,119.668,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-17_Out_Channel Alignment.czi_nucleo_1(17).tifnucleo_0,56,23.887,0.427,9.233,255,108.77,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-17_Out_Channel Alignment.czi_nucleo_2(17).tifnucleo_0,40,16.942,0.424,6.372,255,108.002,dox_sifak,2022_05_22
+Dox-siFAK-h2ax-647-ku80-564-dapi-17_Out_Channel Alignment.czi_nucleo_3(17).tifnucleo_0,67,29.445,0.439,7.615,255,112.068,dox_sifak,2022_05_22
