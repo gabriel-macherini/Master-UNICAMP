@@ -65,7 +65,7 @@
 
   <h2 id="license">License</h2>
   <p>
-    Esse código é publico para caso alguém necessite de uma base para começar a programar ou queira uma solução rápida para algo que tenha aqui. 
+    Esse código é publico para caso alguém necessite de uma base para começar a programar ou queira uma solução rápida para algo que tenha aqui. Só peço que de o crédito a mim pela ajuda e link a esse github.
   </p>
 
   <h2>Authors</h2>
