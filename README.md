@@ -30,11 +30,20 @@
     <li>ImageJ macros: </li>
     </p>
     <p>
-    Para rodar os macros de ImageJ é necessário ter o programa ImageJ instalado em seu computador, copiar do repositório o Macro.ijm desejado e abrir ele no ImageJ. É possível arrastar ele dentro do ImageJ para acesso rápido. Uma nova janela vai aparecer que o botão de run. É possível selecionar parte do código e rodar a parte selecionada parciamente, é assim que a parte dos macros para fazer imagens é usado.
-</p>    
-<p>
-    Muitos dos macros rodam em "batch" de imagens de uma vez, mas necessita de ajuste manual de Threshold para segmentação de núcleos e gh2ax-foci
-  </p>
+    Para rodar os macros de ImageJ é necessário ter o programa <a href="https://imagej.nih.gov/ij/download.html">ImageJ</a> instalado em seu computador, copiar do repositório o Macro.ijm desejado e abrir ele no ImageJ. É possível arrastar ele dentro do ImageJ para acesso rápido. Uma nova janela vai aparecer que o botão de run. É possível selecionar parte do código e rodar a parte selecionada parciamente, é assim que parte dos macros para fazer imagens é usado. 
+  <a href="https://example.com">clickable link</a>  
+    </p>    
+    <p>
+    Muitos dos macros rodam em "batch" de imagens de uma vez, mas necessita de ajuste manual de Threshold para segmentação de núcleos e gh2ax-foci e find maxima Threshold para selecionar os pontos. Não é exatamente uma forma 100% reprodutível como deixar no auto-threshold, mas foi o possível com a experiência em programação que consegui no momento e reduziu o tempo de segmentação que era manual de 5-10 minutos por imagem para 5 segundos ou menos, que seria feito da mesma forma. Como são mais de 1500 imagens produzidas durante todo o processo com o uso dessas ferramentas, esse código tornou possível a análise de todo o material.
+    </p>
+        <li>Códigos em Python usando Jupyter notebook: </li>
+    </p>
+    <p>
+    Para usar o códigos de Python é necessário instalar O Python (recomendo instalar via o programa <a href="https://www.anaconda.com/download">Anaconda</a>) na sua máquina e em seguida instalar o <a href="https://jupyter.org/">Jupyter notebook</a>, que é simplismente falando, uma forma de usar o código de forma particionada e produzir outputs que ficam na memória até serem salvos ou usados.
+    </p>    
+    <p>
+    Os códigos em Python servem para calcular a correlação de Pearson entre as imagens nos experimentos Pixel a Pixel, para obter as médias, checar normalidade, determinar significancia estatística com T-Test, automatizar a produção de correlação de Pearson usando a intensidade integrada dos gh2ax-foci como se fosse um ponto dentro da célula, montar gráficos para publicação.
+    </p>    
 
   <h2 id="usage">Usage</h2>
   <p>
