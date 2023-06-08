@@ -39,52 +39,44 @@
         <li>Códigos em Python usando Jupyter notebook: </li>
     </p>
     <p>
-    Para usar o códigos de Python é necessário instalar O Python (recomendo instalar via o programa <a href="https://www.anaconda.com/download">Anaconda</a>) na sua máquina e em seguida instalar o <a href="https://jupyter.org/">Jupyter notebook</a>, que é simplismente falando, uma forma de usar o código de forma particionada e produzir outputs que ficam na memória até serem salvos ou usados.
+    Para usar o códigos de Python é necessário instalar O Python (recomendo instalar via o programa <a href="https://www.anaconda.com/download">Anaconda</a>) na sua máquina e em seguida instalar o <a href="https://jupyter.org/">Jupyter notebook</a>, que é simplismente falando, uma forma de usar o código de forma particionada e produzir outputs que ficam na memória até serem salvos ou usados. Após instalação, copiar os códigos do reposítorio para uma pasta que o jupyter acessa e rodar o código. Com o próprio jupyter é possível alterar o código caso quiser utilizar para um novo propósito.
     </p>    
     <p>
     Os códigos em Python servem para calcular a correlação de Pearson entre as imagens nos experimentos Pixel a Pixel, para obter as médias, checar normalidade, determinar significancia estatística com T-Test, automatizar a produção de correlação de Pearson usando a intensidade integrada dos gh2ax-foci como se fosse um ponto dentro da célula, montar gráficos para publicação.
     </p>    
 
-  <h2 id="usage">Usage</h2>
-  <p>
-    Explain how users can use your code and provide relevant examples. Include command-line instructions, code snippets, or screenshots to guide users through the process.
-  </p>
-
-  <h2 id="features">Features</h2>
-  <ul>
-    <li>Feature 1: Description of feature 1.</li>
-    <li>Feature 2: Description of feature 2.</li>
-    <!-- Add more features here -->
-  </ul>
-
   <h2 id="examples">Examples</h2>
   <p>
-    Provide examples or use cases to demonstrate the effectiveness of your research code. Include code snippets, input/output examples, or visualizations.
+    Aqui existem alguns exemplos de gráficos e imagens processadas com o uso desses códigos.
   </p>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/pfak%20CTCF%20graph/pfak_gh2ax_ctcf_ct-dox%20sem.jpeg" alt="CTCF graph example" width="300">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/histogram%20circular_fak%20hole/histogram_fakcircular_peaktopeak_space_8.jpeg" alt="FAK hole space example" width="300">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/grafico%20das%20linhas%20nas%20imagens/ku80/plot_fak-ku80-h2ax_loci-gammah2ax_withxy_norm_13jul22_v2.jpeg" alt="ku80 line plot" width="300">
+  </div>
+</div>
 
-  <h2 id="contributing">Contributing</h2>
-  <p>
-    Let others know how they can contribute to your research project. Include guidelines for bug reports, feature requests, and pull requests. Mention any coding style or contribution standards you follow.
-  </p>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/SIFAK%20swarm%20plot%20pc%20by%20cell/swarmplot_pc_cells_ku80gh2ax_ii_si%20v4.jpeg" alt="swarm pc graph example" width="300">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/inifak%20gh2axfoci%20count%20notnorm%203groups%20black%20std.jpeg" alt="gh2ax foci count example" width="300">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/sifak%20gh2ax%20loci%20countmean%20ago2022%20v5.jpeg" alt="gh2ax foci count example" width="300">
+  </div>
+</div>
+
 
   <h2 id="license">License</h2>
   <p>
-    Specify the license under which your research code is released. Mention any usage restrictions, if applicable.
+    Esse código é publico para caso alguém necessite de uma base para começar a programar ou queira uma solução rápida para algo que tenha aqui. 
   </p>
 
   <h2>Authors</h2>
   <p>
-    List the names of the authors or contributors involved in the research project. You can also provide links to their profiles or websites.
-  </p>
+    Todos os códigos que são encontrados aqui são de autoria de Gabriel Macherini Quaglia, com exceção do primeiro código para calculo da correlação de Pearson por canal da imagem o qual foi alterado para servir aos novos propósitos.
 
   <h2>Acknowledgments</h2>
   <p>
-    If you received help or support from individuals or organizations, acknowledge them here.
+   Essa pesquisa foi financiada pelos orgãos brasileiros de fomento a ciência CAPES e FAPESP e foi realizada na universidade de Campinas (UNICAMP).
   </p>
 
-  <h2>References</h2>
-  <p>
-    Include any references to related papers, articles, or external resources that are relevant to your research project.
-  </p>
-</body>
-</html>
