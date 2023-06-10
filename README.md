@@ -49,6 +49,12 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/pfak%20CTCF%20graph/pfak_gh2ax_ctcf_ct-dox%20sem.jpeg" alt="CTCF graph example" width="300">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/SIFAK%20swarm%20plot%20pc%20by%20cell/swarmplot_pc_cells_ku80gh2ax_ii_si%20v4.jpeg" alt="swarm pc graph example" width="300">
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center;">
     <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/histogram%20circular_fak%20hole/histogram_fakcircular_peaktopeak_space_8.jpeg" alt="FAK hole space example" width="300">
     <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/grafico%20das%20linhas%20nas%20imagens/ku80/plot_fak-ku80-h2ax_loci-gammah2ax_withxy_norm_13jul22_v2.jpeg" alt="ku80 line plot" width="300">
   </div>
@@ -56,7 +62,6 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/SIFAK%20swarm%20plot%20pc%20by%20cell/swarmplot_pc_cells_ku80gh2ax_ii_si%20v4.jpeg" alt="swarm pc graph example" width="300">
     <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/inifak%20gh2axfoci%20count%20notnorm%203groups%20black%20std.jpeg" alt="gh2ax foci count example" width="300">
     <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/sifak%20gh2ax%20loci%20countmean%20ago2022%20v5.jpeg" alt="gh2ax foci count example" width="300">
   </div>
