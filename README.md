@@ -62,7 +62,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/inifak%20gh2axfoci%20count%20notnorm%203groups%20black%20std.jpeg" alt="gh2ax foci count example" width="300">
-    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/sifak%20gh2ax%20loci%20countmean%20anova.jpeg" alt="gh2ax foci count example" width="300">
+    <img src="https://github.com/gabriel-macherini/Master-UNICAMP/blob/master/python/gh2ax%20foci%20count%20mean%20all%20xp/sifak%20gh2ax%20loci%20countmean%20anova-tukey.jpeg" alt="gh2ax foci count example" width="300">
   </div>
 </div>
 
