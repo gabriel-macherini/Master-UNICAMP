@@ -1,0 +1,9 @@
+label	max_9000	sum_9000	tto
+controle 1 - dapi - pfak - gamma - 1_Out.czi_nucleo_0(9).tif	1	11	ct
+controle 1 - dapi - pfak - gamma - 3_Out.czi_nucleo_0(11).tif	1	181	ct
+controle 2 - dapi - pfak - gamma - 1_Out.czi_nucleo_0(9).tif	2	361	ct
+controle 2 - dapi - pfak - gamma - 2_Out.czi_nucleo_0(12).tif	1	31	ct
+controle 2 - dapi - pfak - gamma - 3_Out.czi_nucleo_0(13).tif	1	58	ct
+controle 2 - dapi - pfak - gamma - 4_Out.czi_nucleo_0(10).tif	1	65	ct
+controle 2 - dapi - pfak - gamma - 5_Out.czi_nucleo_0(7).tif	10	343	ct
+controle 2 - dapi - pfak - gamma - 6_Out.czi_nucleo_0(10).tif	1	120	ct
